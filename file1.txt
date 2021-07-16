@@ -1,3 +1,9 @@
 line1
 line10
 line3
+<<<<<<< HEAD
+=======
+line4
+
+brancha33
+>>>>>>> branch2
