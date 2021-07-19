@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-habit11
-=======
-habit22
->>>>>>> branch2
